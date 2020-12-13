@@ -8,4 +8,5 @@ Web Browser app for Cel.lep + MadCode + Estação Hack from Facebook's short And
   - [Github](https://github.com/luizmarcicano)
   - [Linkedin](https://www.linkedin.com/in/luiz-guilherme-lima-marcicano-2889a2170/)
 - Victoria Prieto
+  - [Github](https://github.com/VicPrieto)
   - [LinkedIn](https://www.linkedin.com/in/vict%C3%B3ria-gamarano-prieto-32935a161/)
